@@ -1,0 +1,5 @@
+var userOrxan = 2004;
+var userOrkhan= 2023;
+var userOrkhan = new Date(userOrkhan);
+var age = userOrkhan - userOrxan;
+console.log(age)
